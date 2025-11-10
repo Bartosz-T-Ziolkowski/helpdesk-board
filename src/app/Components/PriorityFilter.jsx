@@ -1,4 +1,4 @@
-'usse client';
+'use client';
 
 const OPTIONS = ['All','Low','Medium','High','Critical'];
 
